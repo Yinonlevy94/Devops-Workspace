@@ -1,0 +1,4 @@
+date
+whoami
+who
+w
